@@ -151,7 +151,6 @@ E:\VisualStudio\VisualStudio2019\BFA_WebApp\BFA_WebAppV02\BFA_WebAppV02\bin\Syst
 E:\VisualStudio\VisualStudio2019\BFA_WebApp\BFA_WebAppV02\BFA_WebAppV02\bin\Newtonsoft.Json.xml
 E:\VisualStudio\VisualStudio2019\BFA_WebApp\BFA_WebAppV02\BFA_WebAppV02\bin\Antlr3.Runtime.pdb
 E:\VisualStudio\VisualStudio2019\BFA_WebApp\BFA_WebAppV02\BFA_WebAppV02\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\VisualStudio\VisualStudio2019\BFA_WebApp\BFA_WebAppV02\BFA_WebAppV02\obj\Release\BFA_WebAppV02.csprojAssemblyReference.cache
 E:\VisualStudio\VisualStudio2019\BFA_WebApp\BFA_WebAppV02\BFA_WebAppV02\obj\Release\BFA_WebAppV02.csproj.CoreCompileInputs.cache
 E:\VisualStudio\VisualStudio2019\BFA_WebApp\BFA_WebAppV02\BFA_WebAppV02\obj\Release\BFA_WebAppV02.csproj.CopyComplete
 E:\VisualStudio\VisualStudio2019\BFA_WebApp\BFA_WebAppV02\BFA_WebAppV02\obj\Release\BFA_WebAppV02.dll
